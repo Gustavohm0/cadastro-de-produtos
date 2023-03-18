@@ -25,8 +25,8 @@ Agora eu vou escrever um código em HTML para testar
 
 ## Utilidades do arquivo README.md
 
-> Descrição do seu projeto
-> Funcionalidades
-> Como os usúarios devem usar
-> Onde os usúario podem encontrar ajuda sobre o projeto
-> Autores do projeto
+* Descrição do seu projeto
+* Funcionalidades
+* Como os usúarios devem usar
+* Onde os usúario podem encontrar ajuda sobre o projeto
+* Autores do projeto
