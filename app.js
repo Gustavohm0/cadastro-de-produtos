@@ -7,10 +7,5 @@ for(let i = 0; i < numeros.length; i++){
     console.log(numero[i] + " é um número par")
   }else{
     console.log(numero[i] + " é um número impar")
-    console.log(numero[i] + " é um número impar")
-    console.log(numero[i] + " é um número impar")
-	    console.log(numero[i] + " é um número impar")
-		    console.log(numero[i] + " é um número impar")	
   }
-    //comentario de teste	
 }
